@@ -289,6 +289,7 @@ class _ChatPageState extends State<ChatPage> {
     ChatMessage('yenna pandra machii', true, '9:01 AM'),
     ChatMessage('saptiyaa', true, '9:02 AM'), // Fixed: comma added
     ChatMessage('summadha iruka. Thank you!', false, '9:03 AM'),
+    ChatMessage('hmm', true, '9:04 AM')
   ];
 
   void sendMessage() {
